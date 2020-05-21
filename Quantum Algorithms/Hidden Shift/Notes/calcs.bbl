@@ -1,147 +1,18 @@
 \begin{thebibliography}{10}
 
-\bibitem{farhi2001quantum}
-Edward Farhi, Jeffrey Goldstone, Sam Gutmann, Joshua Lapan, Andrew Lundgren,
-  and Daniel Preda.
-\newblock A quantum adiabatic evolution algorithm applied to random instances
-  of an np-complete problem.
-\newblock {\em Science}, 292(5516):472--475, 2001.
-\newblock \href {http://dx.doi.org/10.1126/science.1057726}
-  {\path{doi:10.1126/science.1057726}}.
+\bibitem{vanDam2002}
+Wim van Dam, Sean Hallgreen, Lawrence Ip
+\newblock Quantum Algorithms for some Hidden Shift Problems.
+\newblock \href {ArXiv preprint arxiv:quant-ph/0211140v1}
+
 
 \bibitem{altshuler2009adiabatic}
-Boris Altshuler, Hari Krovi, and Jeremie Roland.
-\newblock Adiabatic quantum optimization fails for random instances of
-  np-complete problems.
-\newblock {\em arXiv preprint arXiv:0908.2782}, 2009.
-
-\bibitem{altshuler2010anderson}
-Boris Altshuler, Hari Krovi, and J{\'e}r{\'e}mie Roland.
-\newblock Anderson localization makes adiabatic quantum optimization fail.
-\newblock {\em Proceedings of the National Academy of Sciences},
+K Wrigth, et. a.
+\newblock Benchmarking an 11-qubit quantum computer.
+\newblock {\em Nature Communications},
   107(28):12446--12450, 2010.
-\newblock \href {http://dx.doi.org/10.1073/pnas.1002116107}
-  {\path{doi:10.1073/pnas.1002116107}}.
+\newblock \href {httpq://doi.org/10.1038/s41467-019-13534-2}
+  {\path{doi:10.1038/s41467-019-13534-2}}.
 
-\bibitem{knysh2010relevance}
-Sergey Knysh and Vadim Smelyanskiy.
-\newblock On the relevance of avoided crossings away from quantum critical
-  point to the complexity of quantum adiabatic algorithm.
-\newblock {\em arXiv preprint arXiv:1005.3011}, 2010.
-
-\bibitem{Hastings_2018}
-M.~B. Hastings.
-\newblock A short path quantum algorithm for exact optimization.
-\newblock {\em Quantum}, 2:78, jul 2018.
-\newblock URL: \url{https://doi.org/10.22331%2Fq-2018-07-26-78}, \href
-  {http://dx.doi.org/10.22331/q-2018-07-26-78}
-  {\path{doi:10.22331/q-2018-07-26-78}}.
-
-\bibitem{Hastings_2019}
-M.~B. Hastings.
-\newblock The short path algorithm applied to a toy model.
-\newblock {\em Quantum}, 3:145, may 2019.
-\newblock URL: \url{https://doi.org/10.22331%2Fq-2019-05-20-145}, \href
-  {http://dx.doi.org/10.22331/q-2019-05-20-145}
-  {\path{doi:10.22331/q-2019-05-20-145}}.
-
-\bibitem{laumann2012quantum}
-CR~Laumann, R~Moessner, A~Scardicchio, and Shivaji~Lal Sondhi.
-\newblock Quantum adiabatic algorithm and scaling of gaps at first-order
-  quantum phase transitions.
-\newblock {\em Physical review letters}, 109(3):030502, 2012.
-\newblock \href {http://dx.doi.org/10.1103/physrevlett.109.030502}
-  {\path{doi:10.1103/physrevlett.109.030502}}.
-
-\bibitem{Wecker_2016}
-Dave Wecker, Matthew~B. Hastings, and Matthias Troyer.
-\newblock Training a quantum optimizer.
-\newblock {\em Physical Review A}, 94(2), aug 2016.
-\newblock URL: \url{https://doi.org/10.1103%2Fphysreva.94.022309}, \href
-  {http://dx.doi.org/10.1103/physreva.94.022309}
-  {\path{doi:10.1103/physreva.94.022309}}.
-
-\bibitem{ronnow2014defining}
-Troels~F R{\o}nnow, Zhihui Wang, Joshua Job, Sergio Boixo, Sergei~V Isakov,
-  David Wecker, John~M Martinis, Daniel~A Lidar, and Matthias Troyer.
-\newblock Defining and detecting quantum speedup.
-\newblock {\em Science}, 345(6195):420--424, 2014.
-\newblock \href {http://dx.doi.org/10.1126/science.1252319}
-  {\path{doi:10.1126/science.1252319}}.
-
-\bibitem{aharonov}
-D.~Aharonov, W.~van Dam, J.~Kempe, Z.~Landau, S.~Lloyd, and O.~Regev.
-\newblock Adiabatic quantum computation is equivalent to standard quantum
-  computation.
-\newblock In {\em 45th Annual {IEEE} Symposium on Foundations of Computer
-  Science}. {IEEE}.
-\newblock \href {http://dx.doi.org/10.1109/focs.2004.8}
-  {\path{doi:10.1109/focs.2004.8}}.
-
-\bibitem{Childs_2002}
-Andrew~M. Childs, Edward Farhi, and Sam Gutmann.
-\newblock {\em Quantum Information Processing}, 1(1/2):35--43, 2002.
-\newblock \href {http://dx.doi.org/10.1023/a:1019609420309}
-  {\path{doi:10.1023/a:1019609420309}}.
-
-\bibitem{Somma_2012}
-Rolando~D. Somma, Daniel Nagaj, and M{\'{a}}ria Kieferov{\'{a}}.
-\newblock Quantum speedup by quantum annealing.
-\newblock {\em Physical Review Letters}, 109(5), jul 2012.
-\newblock \href {http://dx.doi.org/10.1103/physrevlett.109.050501}
-  {\path{doi:10.1103/physrevlett.109.050501}}.
-
-\bibitem{Childs_2009}
-Andrew~M. Childs.
-\newblock Universal computation by quantum walk.
-\newblock {\em Physical Review Letters}, 102(18), may 2009.
-\newblock \href {http://dx.doi.org/10.1103/physrevlett.102.180501}
-  {\path{doi:10.1103/physrevlett.102.180501}}.
-
-\bibitem{obs}
-M.~B. Hastings and M.~H. Freedman.
-\newblock Obstructions to classically simulating the adiabatic algorithm.
-\newblock {\em QIC}, 13:1038, 2013.
-
-\bibitem{Henelius_1998}
-Patrik Henelius, S.~M. Girvin, and Anders~W. Sandvik.
-\newblock Role of winding numbers in quantum monte carlo simulations.
-\newblock {\em Physical Review B}, 57(21):13382--13385, jun 1998.
-\newblock \href {http://dx.doi.org/10.1103/physrevb.57.13382}
-  {\path{doi:10.1103/physrevb.57.13382}}.
-
-\bibitem{Aharonov_2003}
-Dorit Aharonov and Amnon Ta-Shma.
-\newblock Adiabatic quantum state generation and statistical zero knowledge.
-\newblock In {\em Proceedings of the thirty-fifth ACM symposium on Theory of
-  computing - 03}. ACM Press, 2003.
-\newblock \href {http://dx.doi.org/10.1145/780542.780546}
-  {\path{doi:10.1145/780542.780546}}.
-
-\bibitem{childs2004quantum}
-Andrew~Macgregor Childs.
-\newblock {\em Quantum information processing in continuous time}.
-\newblock PhD thesis, Massachusetts Institute of Technology, 2004.
-
-\bibitem{Berry_2006}
-Dominic~W. Berry, Graeme Ahokas, Richard Cleve, and Barry~C. Sanders.
-\newblock Efficient quantum algorithms for simulating sparse hamiltonians.
-\newblock {\em Communications in Mathematical Physics}, 270(2):359--371, dec
-  2006.
-\newblock \href {http://dx.doi.org/10.1007/s00220-006-0150-x}
-  {\path{doi:10.1007/s00220-006-0150-x}}.
-
-\bibitem{Schenker_2000}
-Jeffrey~H. Schenker and Michael Aizenman.
-\newblock {\em Letters in Mathematical Physics}, 53(3):253--262, 2000.
-\newblock \href {http://dx.doi.org/10.1023/a:1011032212489}
-  {\path{doi:10.1023/a:1011032212489}}.
-
-\bibitem{Jarret_2016}
-Michael Jarret, Stephen~P. Jordan, and Brad Lackey.
-\newblock Adiabatic optimization versus diffusion monte carlo methods.
-\newblock {\em Physical Review A}, 94(4), oct 2016.
-\newblock \href {http://dx.doi.org/10.1103/physreva.94.042318}
-  {\path{doi:10.1103/physreva.94.042318}}.
 
 \end{thebibliography}
