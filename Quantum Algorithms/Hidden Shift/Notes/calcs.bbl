@@ -4,6 +4,7 @@
 Wim van Dam, Sean Hallgreen, Lawrence Ip
 \newblock Quantum Algorithms for some Hidden Shift Problems.
 \newblock \href {ArXiv preprint arxiv:quant-ph/0211140v1}
+	{\path{https://arxiv.org/abs/quant-ph/0211140}}
 
 
 \bibitem{altshuler2009adiabatic}
@@ -12,7 +13,17 @@ K Wrigth, et. a.
 \newblock {\em Nature Communications},
   107(28):12446--12450, 2010.
 \newblock \href {httpq://doi.org/10.1038/s41467-019-13534-2}
-  {\path{doi:10.1038/s41467-019-13534-2}}.
+  {\path{doi:10.1038/s41467-019-13534-2}}
+ 
+\bibitem{vanDam2002}
+Martin Roetteler
+\newblock Quantum algorithms for highly non-linear Boolean functions
+\newblock \href {ArXiv preprint arxiv:quant-ph/0811.3208}
+	{\path{https://https://arxiv.org/abs/0811.3208}}
+
+
+
+
 
 
 \end{thebibliography}

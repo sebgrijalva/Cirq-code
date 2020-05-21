@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.13)  21 MAY 2020 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.13)  21 MAY 2020 18:35
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -391,7 +391,11 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count281
 \l__pdf_internal_box=\box49
 )
-(./calcs.aux)
+(./calcs.aux
+
+LaTeX Warning: Label `vanDam2002' multiply defined.
+
+)
 \openout1 = `calcs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -905,76 +909,57 @@ Class quantumarticle Warning: The quantumarticle class recommends generating th
 e bibliography from a BibTeX file containing DOIs with natbib in order to ensur
 e the generation of DOI hyperlinks on input line 1.
 
-Runaway argument?
-! Paragraph ended before \href@split was complete.
-<to be read again> 
-                   \par 
-l.7 
-    
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-15.
+7.
 (/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) [3]
+)) [3pdfTeX warning (ext4): destination with the same identifier (name{cite.van
+Dam2002}) has been already used, duplicate ignored
 
-! LaTeX Error: \begin{thebibliography} on input line 1 ended by \end{document}.
-
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
                                                   
 l.168 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+                    ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
-(./calcs.aux)
+ (./calcs.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `calcs.out' has not changed.
 (rerunfilecheck)             Checksum: 982CDFB415444E9EA055713E677FF4EE;286.
- )
-(\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 1 (\begingroup)
-### bottom level 
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 21521 strings out of 481239
- 404775 string characters out of 5920377
- 659095 words of memory out of 5000000
- 36354 multiletter control sequences out of 15000+600000
+ 21520 strings out of 481239
+ 404764 string characters out of 5920377
+ 659081 words of memory out of 5000000
+ 36353 multiletter control sequences out of 15000+600000
  580126 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,12n,96p,1054b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/te
-xmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy
-.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts
-/enc/dvips/lm/lm-mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/l
-msy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.p
-fb>
-Output written on calcs.pdf (3 pages, 271694 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc/
+dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/sha
+re/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/
+lm-mathex.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on calcs.pdf (3 pages, 275235 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 142 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  15 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
